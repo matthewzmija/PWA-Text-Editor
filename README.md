@@ -10,7 +10,7 @@ Upon your initial page load, you will be greeted with a welcome message and you 
 
 ## URL of GitHub repository
 
-https://github.com/matthewzmija/PWA-Text-Editor/tree/main
+https://github.com/matthewzmija/PWA-Text-Editor
 
 ## URL of deployed application on Heroku
 
